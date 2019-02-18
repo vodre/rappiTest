@@ -2,7 +2,7 @@
 ![alt text](https://github.com/vodre/rappiTest/blob/master/images/gif1.gif)
 
 # Movie DB - Rappi Test
-Movie DB Gallery using View Model
+Movie DB Gallery using View Model - Ricardo Castillo
 
 
 ## Layers used on app
@@ -14,4 +14,10 @@ Movie DB Gallery using View Model
 * [OTHERS]() - Kotlin extensions, extensions, androidX.
 
 
+## Acknowledgments
+
+* MDBApp - is the base class, we inject the Koin modules on there
+* MainActivity - Is the Activity that contians the menu and holds the MovieFragment asking for different lists to the same fragment
+* AppService - has the definition of all the GET calls
+* Entities - help the way the Gson parser will read and set the values
 
