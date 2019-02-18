@@ -1,0 +1,10 @@
+#Mon Feb 18 03:25:27 CST 2019
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/vodrex/Downloads/MDB/app/build/intermediates/transforms/dexMerger/debug/3
+base.1=/Users/vodrex/Downloads/MDB/app/build/intermediates/transforms/dexMerger/debug/0
+base.0=/Users/vodrex/Downloads/MDB/app/build/intermediates/transforms/dexMerger/debug/1

@@ -1,0 +1,280 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.1.aar/ca974a4ad1c3811e85b905d06fdc4fd6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.1.aar/8995c4f2dff297403763a2a89f4fd8b2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/e848857f2a960bc0c31f710526265643/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.11.aar/c756fbf36615bfa3bffa88793c409615/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.material:material:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/01e655d1fa47afb06967dd73c6e2f99c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie:2.8.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lottie-2.8.0.aar/012f62a1126573ca90a9887335301496/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/de6dd2b06cc94ef39de5d67aad97d4a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/f7af5a6dfa44ba9a516e3296a88a9601/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/ffe69c5f25a6757d82ae047e982e79ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-rxjava2:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.0.0-rc01.aar/279002f9299bbe3ea28618c7e3fde0d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/3b2ce6e0075ebad8260be0603c0b1cf2/AndroidManifest.xml:17:1-22:12
+MERGED from [org.koin:koin-androidx-viewmodel:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-1.0.2.aar/fb013b7f8644ab4e4f89dda1751e69f5/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0-rc01.aar/f4d11eaa532d44c9d74bd552b6c291e4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:2:1-14:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/eac71fe632222253ccb1f4981a258a47/AndroidManifest.xml:15:1-21:12
+MERGED from [org.koin:koin-androidx-scope:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-1.0.2.aar/c99904d8f04240bac29e26b388602077/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.11.aar/29a09a25534cd6f90925ffd5b48a039c/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0-rc01.aar/a035a756da54c3f0df92543ed44a6f13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/8884f659b665475aa502fbd3167eb860/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/ac1fe228e15230e73a17f09232d3e474/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7f9834aa95d56450d167eeb75c84b2ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/3c15e15a4ce78935970686e1eff7cbf8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/015f91027c7b9a6b6300527e1bedb7c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/e7006ea2d8c634eb5f386cb9dc58ce56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/9040a9d9208f527d9882f070fab6790c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7e20bd607f7d1fd4a48dd274b7ea04b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1500fcdb3980f1c3af8f25e32c7418a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/467b133b53cd28d798c738b1dba78adf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/08254b808cadd73e1c2c98b509202c63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/c2f9bd1ad6f19d470729f0d0c2c1c421/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b4c2d5998596a8b5722fc13551661a69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/2c9af2aaadc10cb31ad3603d4383f5e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6d13383d52983972ea57e03a3cd605b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e82bb3eecf2743f4901a88fc9eb32f33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/1e4812a4c0149d1e9d4c7698a9c3855b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/339af996acc8de88ef52fdc50b432d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/701dc99ac50d9d73faa8f15c53af7f4a/AndroidManifest.xml:17:1-25:12
+MERGED from [org.koin:koin-android:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-android-1.0.2.aar/4056dfcce0edce2b2a0fafcd6cbf7fec/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0-rc01.aar/9468d710ccfc98db0630c7bdadcdef95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0-rc01.aar/dbcccedd9e79593b1ed51f69be67bd3a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/0cf445342fbbbbc34dae320e76ac95f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4f5d53a26b9113fceb1b5f754ce21ba8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/fe294efa61ca029baa437aa31eac39d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2097752529fe4919221e81ec06eccb5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b517781cf7334aa994918e63522fe431/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c9edb15bf144d14e1c9a933300782ad6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0b42dd9b0fcfadd528aa8def194e59d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/eb35dffab71a12963a4be0dcb7234395/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/67b7d38a97c51796ad2c26ee661b8db6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1d2a600509a63251062c6747a0f490ff/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:3:11-35
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:9:5-37:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/e848857f2a960bc0c31f710526265643/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/e848857f2a960bc0c31f710526265643/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/01e655d1fa47afb06967dd73c6e2f99c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/01e655d1fa47afb06967dd73c6e2f99c/AndroidManifest.xml:22:5-20
+MERGED from [com.airbnb.android:lottie:2.8.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lottie-2.8.0.aar/012f62a1126573ca90a9887335301496/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.8.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lottie-2.8.0.aar/012f62a1126573ca90a9887335301496/AndroidManifest.xml:11:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-1.0.2.aar/fb013b7f8644ab4e4f89dda1751e69f5/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-1.0.2.aar/fb013b7f8644ab4e4f89dda1751e69f5/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0-rc01.aar/f4d11eaa532d44c9d74bd552b6c291e4/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0-rc01.aar/f4d11eaa532d44c9d74bd552b6c291e4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:7:5-12:19
+MERGED from [org.koin:koin-androidx-scope:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-1.0.2.aar/c99904d8f04240bac29e26b388602077/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-1.0.2.aar/c99904d8f04240bac29e26b388602077/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/1e4812a4c0149d1e9d4c7698a9c3855b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/1e4812a4c0149d1e9d4c7698a9c3855b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/701dc99ac50d9d73faa8f15c53af7f4a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/701dc99ac50d9d73faa8f15c53af7f4a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/1e4812a4c0149d1e9d4c7698a9c3855b/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:15:13-39
+	android:label
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:13:13-45
+	android:roundIcon
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:14:13-58
+	android:icon
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:12:13-47
+	android:allowBackup
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:11:13-39
+	android:theme
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:16:13-44
+	android:name
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:10:13-35
+activity#com.vodrex.mdb.ui.activities.MainActivity
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:20:17-49
+	android:theme
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:18:17-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.vodrex.mdb.ui.activities.MovieDetailActivity
+ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:30:17-49
+	android:theme
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:29:17-60
+	android:name
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml:28:17-66
+uses-sdk
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.1.aar/ca974a4ad1c3811e85b905d06fdc4fd6/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.1.aar/ca974a4ad1c3811e85b905d06fdc4fd6/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.1.aar/8995c4f2dff297403763a2a89f4fd8b2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.1.aar/8995c4f2dff297403763a2a89f4fd8b2/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/e848857f2a960bc0c31f710526265643/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/e848857f2a960bc0c31f710526265643/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.11.aar/c756fbf36615bfa3bffa88793c409615/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android-support:2.11] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.11.aar/c756fbf36615bfa3bffa88793c409615/AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.material:material:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/01e655d1fa47afb06967dd73c6e2f99c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/material-1.0.0-beta01.aar/01e655d1fa47afb06967dd73c6e2f99c/AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:2.8.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lottie-2.8.0.aar/012f62a1126573ca90a9887335301496/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.8.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lottie-2.8.0.aar/012f62a1126573ca90a9887335301496/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/de6dd2b06cc94ef39de5d67aad97d4a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/de6dd2b06cc94ef39de5d67aad97d4a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/f7af5a6dfa44ba9a516e3296a88a9601/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/f7af5a6dfa44ba9a516e3296a88a9601/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/ffe69c5f25a6757d82ae047e982e79ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-beta01.aar/ffe69c5f25a6757d82ae047e982e79ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.0.0-rc01.aar/279002f9299bbe3ea28618c7e3fde0d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/room-rxjava2-2.0.0-rc01.aar/279002f9299bbe3ea28618c7e3fde0d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/3b2ce6e0075ebad8260be0603c0b1cf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/3b2ce6e0075ebad8260be0603c0b1cf2/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-1.0.2.aar/fb013b7f8644ab4e4f89dda1751e69f5/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-viewmodel-1.0.2.aar/fb013b7f8644ab4e4f89dda1751e69f5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0-rc01.aar/f4d11eaa532d44c9d74bd552b6c291e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0-rc01.aar/f4d11eaa532d44c9d74bd552b6c291e4/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/eac71fe632222253ccb1f4981a258a47/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/eac71fe632222253ccb1f4981a258a47/AndroidManifest.xml:19:5-43
+MERGED from [org.koin:koin-androidx-scope:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-1.0.2.aar/c99904d8f04240bac29e26b388602077/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-androidx-scope-1.0.2.aar/c99904d8f04240bac29e26b388602077/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.11.aar/29a09a25534cd6f90925ffd5b48a039c/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.11] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.11.aar/29a09a25534cd6f90925ffd5b48a039c/AndroidManifest.xml:18:3-42
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0-rc01.aar/a035a756da54c3f0df92543ed44a6f13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0-rc01.aar/a035a756da54c3f0df92543ed44a6f13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/8884f659b665475aa502fbd3167eb860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-beta01.aar/8884f659b665475aa502fbd3167eb860/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/ac1fe228e15230e73a17f09232d3e474/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-beta01.aar/ac1fe228e15230e73a17f09232d3e474/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7f9834aa95d56450d167eeb75c84b2ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7f9834aa95d56450d167eeb75c84b2ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/3c15e15a4ce78935970686e1eff7cbf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/3c15e15a4ce78935970686e1eff7cbf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/015f91027c7b9a6b6300527e1bedb7c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/015f91027c7b9a6b6300527e1bedb7c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/e7006ea2d8c634eb5f386cb9dc58ce56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/e7006ea2d8c634eb5f386cb9dc58ce56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/9040a9d9208f527d9882f070fab6790c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/9040a9d9208f527d9882f070fab6790c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7e20bd607f7d1fd4a48dd274b7ea04b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7e20bd607f7d1fd4a48dd274b7ea04b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1500fcdb3980f1c3af8f25e32c7418a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1500fcdb3980f1c3af8f25e32c7418a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/467b133b53cd28d798c738b1dba78adf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/467b133b53cd28d798c738b1dba78adf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/08254b808cadd73e1c2c98b509202c63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/08254b808cadd73e1c2c98b509202c63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/c2f9bd1ad6f19d470729f0d0c2c1c421/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/c2f9bd1ad6f19d470729f0d0c2c1c421/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b4c2d5998596a8b5722fc13551661a69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b4c2d5998596a8b5722fc13551661a69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/2c9af2aaadc10cb31ad3603d4383f5e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/2c9af2aaadc10cb31ad3603d4383f5e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6d13383d52983972ea57e03a3cd605b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6d13383d52983972ea57e03a3cd605b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e82bb3eecf2743f4901a88fc9eb32f33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/e82bb3eecf2743f4901a88fc9eb32f33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/1e4812a4c0149d1e9d4c7698a9c3855b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/1e4812a4c0149d1e9d4c7698a9c3855b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/339af996acc8de88ef52fdc50b432d3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/339af996acc8de88ef52fdc50b432d3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/701dc99ac50d9d73faa8f15c53af7f4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/701dc99ac50d9d73faa8f15c53af7f4a/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-android:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-android-1.0.2.aar/4056dfcce0edce2b2a0fafcd6cbf7fec/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:1.0.2] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/koin-android-1.0.2.aar/4056dfcce0edce2b2a0fafcd6cbf7fec/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0-rc01.aar/9468d710ccfc98db0630c7bdadcdef95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0-rc01.aar/9468d710ccfc98db0630c7bdadcdef95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0-rc01.aar/dbcccedd9e79593b1ed51f69be67bd3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0-rc01.aar/dbcccedd9e79593b1ed51f69be67bd3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/0cf445342fbbbbc34dae320e76ac95f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/0cf445342fbbbbc34dae320e76ac95f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4f5d53a26b9113fceb1b5f754ce21ba8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/4f5d53a26b9113fceb1b5f754ce21ba8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/fe294efa61ca029baa437aa31eac39d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/fe294efa61ca029baa437aa31eac39d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2097752529fe4919221e81ec06eccb5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2097752529fe4919221e81ec06eccb5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b517781cf7334aa994918e63522fe431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/b517781cf7334aa994918e63522fe431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c9edb15bf144d14e1c9a933300782ad6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c9edb15bf144d14e1c9a933300782ad6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0b42dd9b0fcfadd528aa8def194e59d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0b42dd9b0fcfadd528aa8def194e59d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/eb35dffab71a12963a4be0dcb7234395/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/eb35dffab71a12963a4be0dcb7234395/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/67b7d38a97c51796ad2c26ee661b8db6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/67b7d38a97c51796ad2c26ee661b8db6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1d2a600509a63251062c6747a0f490ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/1d2a600509a63251062c6747a0f490ff/AndroidManifest.xml:20:5-44
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vodrex/Downloads/MDB/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/jetified-picasso-2.71828.aar/6ef8e47e5ab4616f049442f7c5822ce8/AndroidManifest.xml:9:13-64
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0-rc01] /Users/vodrex/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0-rc01.aar/f601fbf3ac5cdffbee2388ebdd2d4909/AndroidManifest.xml:24:13-79

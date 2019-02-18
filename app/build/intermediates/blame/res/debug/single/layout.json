@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/vodrex/Downloads/MDB/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movie_detail.xml",
+        "source": "/Users/vodrex/Downloads/MDB/app/src/main/res/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/vodrex/Downloads/MDB/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_movie.xml",
+        "source": "/Users/vodrex/Downloads/MDB/app/src/main/res/layout/item_movie.xml"
+    },
+    {
+        "merged": "/Users/vodrex/Downloads/MDB/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_movies.xml",
+        "source": "/Users/vodrex/Downloads/MDB/app/src/main/res/layout/fragment_movies.xml"
+    }
+]
