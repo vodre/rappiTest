@@ -3,6 +3,7 @@
 
 # Movie DB - Rappi Test
 Movie DB Gallery using View Model - Ricardo Castillo
+--please refer to initial_commit branch to find the code
 
 
 ## Layers used on app
